@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isActive: false
+  description: MyText
+  condition: MyString
+  month: one
+
+two:
+  isActive: false
+  description: MyText
+  condition: MyString
+  month: two
